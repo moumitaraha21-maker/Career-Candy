@@ -1,0 +1,6 @@
+{
+  "name": "Career Candy",
+  "description": "A sleek and highly polished professional job matching and resume building platform, featuring a Material 3 design, real-time application trackers, and interactive profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
